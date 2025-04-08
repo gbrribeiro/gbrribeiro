@@ -39,4 +39,5 @@
 
 <br clear="both">
 
+ <img src="https://raw.githubusercontent.com/gbrribeiro/gbrribeiro/output/snake.svg" alt="Snake animation" />
 ###
